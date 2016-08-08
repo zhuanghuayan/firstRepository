@@ -1,0 +1,58 @@
+10
+
+dir
+1214
+svn://wuqinghai@192.168.1.205/pze/trunk/source/android/PZ/androidlibrary/src/main/res
+svn://wuqinghai@192.168.1.205
+
+
+
+2016-03-24T01:24:11.718005Z
+1214
+wuqinghai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c82b9584-55a0-4600-9d34-5a32f02d000e
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+
+
+add
+
+drawable-xhdpi
+dir
+
+
+
+add
+
+drawable-xxxhdpi
+dir
+
+
+
+add
+
+layout
+dir
+
+values
+dir
+
